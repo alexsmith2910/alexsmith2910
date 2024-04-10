@@ -1,11 +1,12 @@
 <a href="https://komarev.com/ghpvc/?username=alexsmith2910">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alexsmith2910&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=alexsmith2910&label=Profile%20Visitors&color=0e75b6&style=for-the-badge&" alt="Profile visitor" />
 </a>
 
-Add something here ... [badge]
+![Static Badge](https://img.shields.io/badge/True-0e75b6?style=for-the-badge&label=Looking%20for%20work&labelColor=#848484)
+
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt;. Hey There! I am
                 <b><a target="_blank" href="https://www.alexandersmith.dev/">Alexander Smith</a></b>
         </samp>
 </h3>
@@ -13,9 +14,7 @@ Add something here ... [badge]
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/">「 add something here --- idk 」</a>
-    <br>
-    「 I am a full stack web application developer from the <b>United Kingdom</b> 」
+    「 I am a full-stack web application developer from the <b>United Kingdom</b> 」
     <br>
     <br>
   </samp>
@@ -38,26 +37,43 @@ Add something here ... [badge]
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt=""  />
   </a> 
 </p>
+
 <br />
 
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy designing and developing full-stack websites and applications. <br/><br/>
- ❤️ &emsp; Love to learn new technologies and frameworks.<br/><br/>
- 📧 &emsp; Reach me anytime: ajs@alexandersmith.dev<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alexsmith2910/alexsmith2910/issues).
+👇 Type this in your terminal to connect with me.
 
- ```javascript
-  const about_me = {
-    code: [Javascript, Typescript, HTML, CSS, Python, Java],
-    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
-    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
-    more_random_shit: "idk, you seem more interesting tbh..."
-  }
+```bash
+npx alexsmith
+```
+**👆 This command line tool can be found at [npx alexsmith](https://github.com/alexsmith2910/) (add repo) (change this to badge/button)**
+
+---
+
+### A little more about me...
+
+<p>
+
+```javascript
+  const alexander = {
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "horses"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Next", "Express"],
+            py: ["Django", "Flask"]
+        },
+        frontEnd: {
+            js: ["React"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "selenium"]
+        // add more stuff
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building my personal website and portfolio projects",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+  };
 ```
 
 add this ... ![this](https://github.com/anmol098/npx_card)
@@ -92,7 +108,11 @@ add this ... ![this](https://github.com/anmol098/npx_card)
 
 <br/>
 
-## Top Projects -
+### ⭐ Top Projects -
+
+add projects here
+
+### 🙌 Hobby Projects -
 
 add projects here
 
