@@ -50,6 +50,16 @@ Add something here ... [badge]
  📧 &emsp; Reach me anytime: ajs@alexandersmith.dev<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alexsmith2910/alexsmith2910/issues).
 
+ ```javascript
+  const about_me = {
+    code: [Javascript, Typescript, HTML, CSS, Python, Java],
+    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+    architecture: ["microservices", "event-driven", "design system pattern"],
+    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+    more_random_shit: "idk, you seem more interesting tbh..."
+  }
+```
+
 </p>
 
 <br/>
