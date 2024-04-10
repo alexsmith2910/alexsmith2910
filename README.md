@@ -45,7 +45,8 @@
 ```bash
 npx alexsmith
 ```
-**👆 This command line tool can be found at [npx alexsmith](https://github.com/alexsmith2910/) (add repo) (change this to badge/button)**
+
+**👆 This command line tool can be found at [npx alexsmith](https://github.com/alexsmith2910/npx_alexsmith_cli/)**
 
 ---
 
