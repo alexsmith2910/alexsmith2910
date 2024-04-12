@@ -77,16 +77,9 @@ npx alexsmith
   };
 ```
 
-add this ... ![this](https://github.com/anmol098/npx_card)
-
-![and this](https://studioelsa.se/blog/open-source-oss-npx-business-card/)
-
-
 </p>
 
-<br/>
-<br/>
-<br/>
+---
 
 ## Skills
 
