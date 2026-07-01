@@ -56,7 +56,7 @@ const alexander = {
     backEnd: { js: ["Node", "Next", "Express"], py: ["Django", "Flask"] },
     frontEnd: { js: ["React", "Astro"], creative: ["Three.js", "WebGL", "GSAP", "Lenis"] },
     devOps: ["Vercel", "AWS", "Docker 🐳"],
-    databases: ["Supabase", "MongoDB", "MySQL", "SQLite"],
+    databases: ["Supabase", "PostgreSQL", "MongoDB", "MySQL", "SQLite"],
     misc: ["Firebase", "Selenium"],
   },
   architecture: ["Serverless", "Progressive Web Apps", "Single Page Apps"],
@@ -92,6 +92,7 @@ const alexander = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -154,7 +155,7 @@ const alexander = {
         <a href="https://github.com/alexsmith2910/recycled-products-ltd" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=recycled-products-ltd&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Recycled Products Ltd" />
         </a>
-        <p>♻️ Recycled Products Ltd — a TypeScript web application. <code>TypeScript</code></p>
+        <p>♻️ Recycled Products Ltd — a TypeScript web application backed by PostgreSQL. <code>TypeScript · PostgreSQL</code></p>
       </div>
     </td>
   </tr>
