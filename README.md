@@ -113,29 +113,37 @@ const alexander = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📦 npx alexsmith</h3>
+      <div align="center">
+        <a href="https://github.com/alexsmith2910/WatchDeck" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=WatchDeck&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="WatchDeck" />
+        </a>
+        <p>🛰️ Self-hosted endpoint monitoring toolkit, shipped as an npm package. <code>TypeScript · MIT</code></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/alexsmith2910/alexander-smith-portfolio-website" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=alexander-smith-portfolio-website&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Portfolio Website" />
+        </a>
+        <p>🎯 My personal portfolio — Astro 6 + Tailwind 4 with a GSAP-animated hero. <code>Astro · Tailwind</code></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/alexsmith2910/npx_alexsmith_cli" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=npx_alexsmith_cli&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="npx alexsmith" />
         </a>
-        <p>An interactive command-line business card — run <code>npx alexsmith</code> to say hi. 👋</p>
-        <a href="https://github.com/alexsmith2910/npx_alexsmith_cli" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View repo" />
-        </a>
+        <p>📦 An interactive command-line business card — run <code>npx alexsmith</code> to say hi. 👋</p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚧 Coming soon</h3>
       <div align="center">
-        <p><i>Another favourite project will live here.</i></p>
-        <!--
-          TODO: replace with a real project.
-          Swap REPO_NAME below and drop the card in:
-          <a href="https://github.com/alexsmith2910/REPO_NAME">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=REPO_NAME&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-          </a>
-        -->
-        <img src="https://img.shields.io/badge/Add%20a%20project-555555?style=for-the-badge&logo=github&logoColor=white" alt="Add a project" />
+        <a href="https://github.com/alexsmith2910/TempestWeatherApp" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=TempestWeatherApp&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Tempest Weather App" />
+        </a>
+        <p>⛅ A clean, responsive weather application built in TypeScript. <code>TypeScript</code></p>
       </div>
     </td>
   </tr>
@@ -146,17 +154,19 @@ const alexander = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 Placeholder</h3>
       <div align="center">
-        <p><i>A fun side project goes here — same card format as above.</i></p>
-        <img src="https://img.shields.io/badge/Add%20a%20project-555555?style=for-the-badge&logo=github&logoColor=white" alt="Add a project" />
+        <a href="https://github.com/alexsmith2910/Cryptocurrency-Trading-Bot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=Cryptocurrency-Trading-Bot&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Cryptocurrency Trading Bot" />
+        </a>
+        <p>📈 An experimental crypto trading bot written in Python. <code>Python</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 Placeholder</h3>
       <div align="center">
-        <p><i>Another experiment or hobby build goes here.</i></p>
-        <img src="https://img.shields.io/badge/Add%20a%20project-555555?style=for-the-badge&logo=github&logoColor=white" alt="Add a project" />
+        <a href="https://github.com/alexsmith2910/DigitalMinerDiscordBot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=DigitalMinerDiscordBot&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Digital Miner Discord Bot" />
+        </a>
+        <p>🤖 A Discord bot for a mining-themed community game. <code>JavaScript · MIT</code></p>
       </div>
     </td>
   </tr>
