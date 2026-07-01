@@ -122,10 +122,10 @@ const alexander = {
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/ElectronApp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=ElectronApp&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Electron Chat App" />
+        <a href="https://github.com/alexsmith2910/PathFindingApp" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=PathFindingApp&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Path Finding App" />
         </a>
-        <p>💬 A desktop chat application, also accessible via the web. <code>Electron · HTML</code></p>
+        <p>🗺️ Dijkstra / A* pathfinding over a realistic, map-style view to plot the quickest route. <code>Python</code></p>
       </div>
     </td>
   </tr>
@@ -140,10 +140,10 @@ const alexander = {
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/TempestWeatherApp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=TempestWeatherApp&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Tempest Weather App" />
+        <a href="https://github.com/alexsmith2910/recycled-products-ltd" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=recycled-products-ltd&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Recycled Products Ltd" />
         </a>
-        <p>⛅ A clean, responsive weather application built in TypeScript. <code>TypeScript</code></p>
+        <p>♻️ Recycled Products Ltd — a TypeScript web application. <code>TypeScript</code></p>
       </div>
     </td>
   </tr>
