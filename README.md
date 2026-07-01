@@ -118,7 +118,7 @@ const alexander = {
 
 ### 🌟 Fav Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -155,7 +155,7 @@ const alexander = {
 
 ### 🎨 Hobby Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
