@@ -54,9 +54,9 @@ const alexander = {
   askMeAbout: ["web dev", "tech", "app dev", "horses"],
   technologies: {
     backEnd: { js: ["Node", "Next", "Express"], py: ["Django", "Flask"] },
-    frontEnd: { js: ["React"] },
-    devOps: ["AWS", "Docker 🐳"],
-    databases: ["MongoDB", "MySQL", "SQLite"],
+    frontEnd: { js: ["React", "Astro"], creative: ["Three.js", "WebGL", "GSAP", "Lenis"] },
+    devOps: ["Vercel", "AWS", "Docker 🐳"],
+    databases: ["Supabase", "MongoDB", "MySQL", "SQLite"],
     misc: ["Firebase", "Selenium"],
   },
   architecture: ["Serverless", "Progressive Web Apps", "Single Page Apps"],
@@ -96,8 +96,19 @@ const alexander = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**DevOps & Tools**
+**Creative & Modern Web**
 
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Platforms, DevOps & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
