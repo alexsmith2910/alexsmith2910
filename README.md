@@ -1,8 +1,10 @@
-<a href="https://komarev.com/ghpvc/?username=alexsmith2910">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alexsmith2910&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</a>
-
 <!-- ======================= HEADER ======================= -->
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=alexsmith2910">
+    <img src="https://komarev.com/ghpvc/?username=alexsmith2910&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+</p>
 
 <h1 align="center">Hi there, I'm Alexander Smith 👋</h1>
 
@@ -21,12 +23,6 @@
   </a>
   <a href="https://www.linkedin.com/in/alex-smith-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -126,36 +122,32 @@ const alexander = {
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/WatchDeck" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=WatchDeck&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="WatchDeck" />
-        </a>
-        <p>🛰️ Self-hosted endpoint monitoring toolkit, shipped as an npm package. <code>TypeScript · MIT</code></p>
+        <h3>🛰️ <a href="https://github.com/alexsmith2910/WatchDeck" target="_blank">WatchDeck</a></h3>
+        <p>Self-hosted endpoint monitoring toolkit, shipped as an npm package.</p>
+        <p><code>TypeScript · MIT</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/PathFindingApp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=PathFindingApp&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Path Finding App" />
-        </a>
-        <p>🗺️ Dijkstra / A* pathfinding over a realistic, map-style view to plot the quickest route. <code>Python</code></p>
+        <h3>🗺️ <a href="https://github.com/alexsmith2910/PathFindingApp" target="_blank">Path Finding App</a></h3>
+        <p>Dijkstra / A* pathfinding over a realistic, map-style view to plot the quickest route.</p>
+        <p><code>Python</code></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/npx_alexsmith_cli" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=npx_alexsmith_cli&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="npx alexsmith" />
-        </a>
-        <p>📦 An interactive command-line business card — run <code>npx alexsmith</code> to say hi. 👋</p>
+        <h3>📦 <a href="https://github.com/alexsmith2910/npx_alexsmith_cli" target="_blank">npx alexsmith</a></h3>
+        <p>An interactive command-line business card — run <code>npx alexsmith</code> to say hi. 👋</p>
+        <p><code>JavaScript · MIT</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/recycled-products-ltd" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=recycled-products-ltd&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Recycled Products Ltd" />
-        </a>
-        <p>♻️ Recycled Products Ltd — a TypeScript web application backed by PostgreSQL. <code>TypeScript · PostgreSQL</code></p>
+        <h3>♻️ <a href="https://github.com/alexsmith2910/recycled-products-ltd" target="_blank">Recycled Products Ltd</a></h3>
+        <p>A TypeScript web application backed by PostgreSQL.</p>
+        <p><code>TypeScript · PostgreSQL</code></p>
       </div>
     </td>
   </tr>
@@ -167,18 +159,16 @@ const alexander = {
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/Cryptocurrency-Trading-Bot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=Cryptocurrency-Trading-Bot&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Cryptocurrency Trading Bot" />
-        </a>
-        <p>📈 An experimental crypto trading bot written in Python. <code>Python</code></p>
+        <h3>📈 <a href="https://github.com/alexsmith2910/Cryptocurrency-Trading-Bot" target="_blank">Cryptocurrency Trading Bot</a></h3>
+        <p>An experimental crypto trading bot written in Python.</p>
+        <p><code>Python</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/DigitalMinerDiscordBot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=DigitalMinerDiscordBot&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Digital Miner Discord Bot" />
-        </a>
-        <p>🤖 A Discord bot for a mining-themed community game. <code>JavaScript · MIT</code></p>
+        <h3>🤖 <a href="https://github.com/alexsmith2910/DigitalMinerDiscordBot" target="_blank">Digital Miner Discord Bot</a></h3>
+        <p>A Discord bot for a mining-themed community game.</p>
+        <p><code>JavaScript · MIT</code></p>
       </div>
     </td>
   </tr>
