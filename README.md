@@ -122,10 +122,10 @@ const alexander = {
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/alexsmith2910/alexander-smith-portfolio-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=alexander-smith-portfolio-website&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Portfolio Website" />
+        <a href="https://github.com/alexsmith2910/ElectronApp" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsmith2910&repo=ElectronApp&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Electron Chat App" />
         </a>
-        <p>🎯 My personal portfolio — Astro 6 + Tailwind 4 with a GSAP-animated hero. <code>Astro · Tailwind</code></p>
+        <p>💬 A desktop chat application, also accessible via the web. <code>Electron · HTML</code></p>
       </div>
     </td>
   </tr>
