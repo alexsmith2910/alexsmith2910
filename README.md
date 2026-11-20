@@ -252,36 +252,6 @@ const alexander = {
 
 ---
 
-<!-- ======================= KIND WORDS ======================= -->
-
-### 💬 Kind words
-
-> *"I ordered something very complicated and was completely blown away by Alex's skills… The work is stupidly amazing. Would highly recommend."*
-> <br /><sub>Private client, UK</sub>
-
-> *"Alex was always willing to help and suggest improvements, and delivered a great product and service. 100% would recommend to anyone looking for a professional."*
-> <br /><sub>Victor G., Switzerland</sub>
-
-> *"Second time working with Alex, and as good as the first time. Looking forward to working with him more in the future."*
-> <br /><sub>Repeat client, Netherlands</sub>
-
----
-
-<!-- ======================= STATS ======================= -->
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alexsmith2910&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="170" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmith2910&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="170" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=alexsmith2910&theme=react&border=7F3FBF&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
-</p>
-
----
-
 <p align="center">
   <b>Got something in mind?</b> A brand world, a launch, or something that doesn't have a name yet.<br />
   <a href="https://www.alexandersmith.dev/contact"><b>Start a project →</b></a>
